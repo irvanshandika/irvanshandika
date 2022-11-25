@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working in web developer and as a student at AMIKOM University Yogyakarta 
+I'm currently working in web developer and as a student at University of AMIKOM Yogyakarta 
 
 
 ## 🌐 Socials:
