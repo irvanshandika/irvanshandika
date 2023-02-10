@@ -15,9 +15,8 @@ I'm currently working in web developer and as a student at University of AMIKOM 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
+## My Portfolio
+<a href="www.irvanshandika.my.id">Click Me</a>
 ---
 [![](https://visitcount.itsvg.in/api?id=irvanshandika&icon=0&color=0)](https://visitcount.itsvg.in)
 
